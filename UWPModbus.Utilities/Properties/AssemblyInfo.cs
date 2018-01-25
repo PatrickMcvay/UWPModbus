@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("UWPModbus.Utilities")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("This project is a modified version of NModbus4 , a C# implementation of the modbus protocol. It has been modified to work in the Universal Windows Platform Apps. This is an open source project and it can be found on GitHub at https://github.com/PatrickMcvay/UWPModbus")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Meems, LLC")]
 [assembly: AssemblyProduct("UWPModbus.Utilities")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

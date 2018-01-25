@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("UWPModbus")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("UWPModbus.SerialLib")]
+[assembly: AssemblyDescription("This project is a modified version of NModbus4 , a C# implementation of the modbus protocol. It has been modified to work in the Universal Windows Platform Apps. This is an open source project and it can be found on GitHub at https://github.com/PatrickMcvay/UWPModbus")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("UWPModbus")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyCompany("Meems, LLC")]
+[assembly: AssemblyProduct("UWPModbus.SerialLib")]
+[assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

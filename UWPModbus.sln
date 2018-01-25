@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UWPModbus.SerialLib", "UWPModbus\UWPModbus.SerialLib.csproj", "{6C8B0A91-B194-4F0A-85C0-B316A07DCE4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UWPModbus.Utilities", "UWPModbus.Utilities\UWPModbus.Utilities.csproj", "{41139195-F719-40E1-ADE6-B82125B093EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C8B0A91-B194-4F0A-85C0-B316A07DCE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C8B0A91-B194-4F0A-85C0-B316A07DCE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C8B0A91-B194-4F0A-85C0-B316A07DCE4B}.Debug|ARM.ActiveCfg = Debug|ARM
+		{6C8B0A91-B194-4F0A-85C0-B316A07DCE4B}.Debug|ARM.Build.0 = Debug|ARM
+		{6C8B0A91-B194-4F0A-85C0-B316A07DCE4B}.Debug|x64.ActiveCfg = Debug|x64
+		{6C8B0A91-B194-4F0A-85C0-B316A07DCE4B}.Debug|x64.Build.0 = Debug|x64
+		{6C8B0A91-B194-4F0A-85C0-B316A07DCE4B}.Debug|x86.ActiveCfg = Debug|x86
+		{6C8B0A91-B194-4F0A-85C0-B316A07DCE4B}.Debug|x86.Build.0 = Debug|x86
+		{6C8B0A91-B194-4F0A-85C0-B316A07DCE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C8B0A91-B194-4F0A-85C0-B316A07DCE4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C8B0A91-B194-4F0A-85C0-B316A07DCE4B}.Release|ARM.ActiveCfg = Release|ARM
+		{6C8B0A91-B194-4F0A-85C0-B316A07DCE4B}.Release|ARM.Build.0 = Release|ARM
+		{6C8B0A91-B194-4F0A-85C0-B316A07DCE4B}.Release|x64.ActiveCfg = Release|x64
+		{6C8B0A91-B194-4F0A-85C0-B316A07DCE4B}.Release|x64.Build.0 = Release|x64
+		{6C8B0A91-B194-4F0A-85C0-B316A07DCE4B}.Release|x86.ActiveCfg = Release|x86
+		{6C8B0A91-B194-4F0A-85C0-B316A07DCE4B}.Release|x86.Build.0 = Release|x86
+		{41139195-F719-40E1-ADE6-B82125B093EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41139195-F719-40E1-ADE6-B82125B093EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41139195-F719-40E1-ADE6-B82125B093EB}.Debug|ARM.ActiveCfg = Debug|ARM
+		{41139195-F719-40E1-ADE6-B82125B093EB}.Debug|ARM.Build.0 = Debug|ARM
+		{41139195-F719-40E1-ADE6-B82125B093EB}.Debug|x64.ActiveCfg = Debug|x64
+		{41139195-F719-40E1-ADE6-B82125B093EB}.Debug|x64.Build.0 = Debug|x64
+		{41139195-F719-40E1-ADE6-B82125B093EB}.Debug|x86.ActiveCfg = Debug|x86
+		{41139195-F719-40E1-ADE6-B82125B093EB}.Debug|x86.Build.0 = Debug|x86
+		{41139195-F719-40E1-ADE6-B82125B093EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41139195-F719-40E1-ADE6-B82125B093EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41139195-F719-40E1-ADE6-B82125B093EB}.Release|ARM.ActiveCfg = Release|ARM
+		{41139195-F719-40E1-ADE6-B82125B093EB}.Release|ARM.Build.0 = Release|ARM
+		{41139195-F719-40E1-ADE6-B82125B093EB}.Release|x64.ActiveCfg = Release|x64
+		{41139195-F719-40E1-ADE6-B82125B093EB}.Release|x64.Build.0 = Release|x64
+		{41139195-F719-40E1-ADE6-B82125B093EB}.Release|x86.ActiveCfg = Release|x86
+		{41139195-F719-40E1-ADE6-B82125B093EB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
